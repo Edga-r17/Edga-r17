@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Edga-r17&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
 </p>
 
-- 🔭 Actualmente trabajo en **Jotpotato**
+- 🔭 Actualmente trabajo en **GUAS Cybersecurity**
 - 🌱 Aprendiendo sobre **CI/CD con GitHub Actions y despliegue en la nube**
 - 📫 Contáctame en **rojasedgar66@gmail.com**
 - ⚡ Me encanta **automatizar procesos y optimizar rendimiento!**
